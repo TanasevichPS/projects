@@ -1,7 +1,6 @@
-# Hey! Nice to see you.
+# Hey! Nice to see you <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 Welcome to my page!
-I'm Polina, Data Analyst from  Moscow, Russia.
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
