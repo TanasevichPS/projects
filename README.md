@@ -7,7 +7,7 @@ I'm Polina, Data Analyst from  Moscow, Russia.
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
   <p align="left"> 
-   <img alt="Jupyter" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2g6gmpR19CGiHggS37HOXUu0X2Onr24whFbwI0pWFIthY2ry7NvkakcN6M7S5MCnrz9k&usqp=CAU" width="100"/> 
+    <img alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" width="100"/> 
   <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="100"/> 
   <img alt="SQL" src="https://howtocheckversion.com/wp-content/uploads/2023/09/postgresql-logo-for-blog.png" width="100"/> 
   <img alt="GitLab" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/2560px-GitLab_logo.svg.png" width="100"/> 
