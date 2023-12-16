@@ -5,8 +5,8 @@ I'm Polina, Data Analyst from  Moscow, Russia.
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="100"/>  
-  <img alt="SQL" src="https://banner2.cleanpng.com/20180705/yke/kisspng-sql-database-computer-icons-download-sql-icon-5b3ed4c9cc9013.8225606715308443618379.jpg" width="100"/>  
+  <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="100"/> 
+  <img alt="SQL" src="https://getlogo.net/wp-content/uploads/2020/03/sql-projekt-ag-logo-vector.png" width="100"/>  
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   
 </p>
