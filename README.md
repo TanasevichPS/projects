@@ -17,7 +17,7 @@ I'm Polina, Data Analyst from  Moscow, Russia.
   <img alt="Tableau" src="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/Tableau_logo.svg/1280px-Tableau_logo.svg.png" width="110" />
   <img alt="Zeppelin" src="https://zeppelin.apache.org/assets/themes/zeppelin/img/zeppelin_classic_logo.png" width="50" />
   <img alt="Superset" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Superset-logo.svg/2560px-Superset-logo.svg.png" width="100" />
-  <img alt="Airflow" src="https://airflow.apache.org/images/feature-image.png" width="80" />
+  <img alt="Airflow" src="https://airflow.apache.org/images/feature-image.png" width="60" />
   </p>
 </details>
 
