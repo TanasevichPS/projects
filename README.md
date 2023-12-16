@@ -21,4 +21,4 @@ Welcome to my page!
 
 
 ### LeetCode stats
-[//]: # ( [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=pluf&theme=dark)](https://github.com/TanasevichPS/projects) )
+// ( [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=pluf&theme=dark)](https://github.com/TanasevichPS/projects) )
