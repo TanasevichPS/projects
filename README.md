@@ -2,6 +2,22 @@
 
 Welcome to my page!
 
+## 💻 Professional passions
+- Data analysis
+- Machine learning
+- Statistics
+- Modeling (python)
+
+## 🎓 Scientific work
+- Certificate of registration of software rights
+  - Program of numerical assessment of effective elastic-plastic properties of heterogeneous material in two-dimensional case (SOFT)
+  - Strength Calculation Program «CAE - Fidesys» - calculation of effective elastic modules of heterogeneous material subjected to non-linear-elastic pre-loading, in three-dimensional case (taking into account nonlinear effects) (SOFT)
+- Application of the Finite Element Method to Modeling the Effective Mechanical and Thermomechanical Properties of Metamaterials of the 3D Lattice Structure - Proceedings of NAFEMS World Congress 
+- Numerical analysis of the effective thermal properties and the stability for NTE metamaterials - AIP Conference Proceedings
+- etc...
+- I participate in scientific conventions and symposiums annually, and here is the complete list: [istina.msu](https://istina.msu.ru/workers-beta/251795028/)
+
+
 ### Languages and Tools:
 <p align="left"> 
   <img alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" width="30"/>     
