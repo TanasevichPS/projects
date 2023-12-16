@@ -2,12 +2,10 @@
 
 Welcome to my page!
 
-<b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
-
 ### Languages and Tools:
 <p align="left"> 
   <img alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" width="30"/>     
-  <img alt="SQL" src="https://i.pinimg.com/736x/01/1d/b5/011db55ecc6a52a484a4f9be63158259.jpg" width="35"/> 
+  <img alt="SQL" src="https://i.pinimg.com/736x/01/1d/b5/011db55ecc6a52a484a4f9be63158259.jpg" width="37"/> 
   <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="100"/> 
   <img alt="Hue" src="https://logovectorseek.com/wp-content/uploads/2021/08/hue-gethue-com-logo-vector.png" width="60"/> 
   <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" width="30px"/>
