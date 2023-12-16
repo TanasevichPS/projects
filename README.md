@@ -5,7 +5,8 @@ I'm Polina, Data Analyst from  Moscow, Russia.
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="Python" src="https://www.python.org/static/img/python-logo@2x.png" />  
+  <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" />  
+  <img alt="SQL" src="https://seeklogo.com/images/P/postgre-sql-logo-600AD1A66B-seeklogo.com.png" />  
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   
 </p>
