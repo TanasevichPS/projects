@@ -1,6 +1,7 @@
 # Hey! Nice to see you <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 Welcome to my page!
+
 Here I publish some pet projects that do in my spare time for fun 🧐 
 
 ## 💻 Professional passions
@@ -19,7 +20,7 @@ Here I publish some pet projects that do in my spare time for fun 🧐
 - I participate in scientific conventions and symposiums annually, and here is the complete list: [istina.msu](https://istina.msu.ru/workers-beta/251795028/)
 
 
-### Languages and Tools:
+## 👨🏽‍💻 Languages and Tools:
 <p align="left"> 
   <img alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" width="30"/>     
   <img alt="SQL" src="https://i.pinimg.com/736x/01/1d/b5/011db55ecc6a52a484a4f9be63158259.jpg" width="40"/> 
