@@ -40,7 +40,4 @@ Here I publish some pet projects that do in my spare time for fun 🧐
 
 ## 👨🏽‍💻 LeetCode stats
 
-[KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=pluf&theme=dark)](https://github.com/TanasevichPS/projects)
-
-<!---
--->
+![](https://leetcode.card.workers.dev/pluf?theme=default&font=baloo&extension=null)
