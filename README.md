@@ -40,4 +40,4 @@ Here I publish some pet projects that do in my spare time for fun 🧐
 
 ## 👨🏽‍💻 LeetCode stats
 
-![](https://leetcode.card.workers.dev/pluf?theme=default&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/pluf?theme=dark&font=source_code_pro&extension=null)
